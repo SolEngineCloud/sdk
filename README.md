@@ -3,7 +3,7 @@
 **SolEngine** is a decentralized infrastructure network designed to power the next generation of **Solana nodes and services**.
 Deploy a node in seconds, contribute to the network, and start earning yield instantly.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : fxd2aN9xJXKp5uzQ8ZZ6aokcVP6PUJX3QH5mDE8pump
 ---
 
 ## 🚀 About SolEngine
